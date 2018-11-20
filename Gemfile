@@ -17,7 +17,8 @@ gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
 gem 'font-awesome-sass', '~> 4.6', '>= 4.6.2'
 gem 'bootstrap-sass-extras', '~> 0.0.2'
 gem 'devise', '~> 4.2'
-gem 'simple_form', '~> 3.2', '>= 3.2.1'
+gem 'simple_form'
+
 
 gem 'bootsnap', '>= 1.1.0', require: false
 group :development, :test do
